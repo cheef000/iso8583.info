@@ -1,0 +1,125 @@
+3DS;    3D-Secure
+3GPP;   3rd Generation Partnership Project
+
+AAMVA;  American Association of Motor Vehicle Administrators
+ACI;    Applied Communications Incorporated
+ADVT;   Acquirer Device Validation Toolkit
+AMEX;   American Express Payment Services Ltd.
+ANSI;   American National Standards Institute
+APACS;  Association for Payment Clearing Services
+AS;     Australian Standards
+ASN;    Abstract Syntax Notation
+ATM;    Automated Teller Machine
+
+B+S;    B+S Card Service GmbH
+BAR;    Barcode
+BER;    Basic Encoding Rules
+BG;     Berlin Group
+BM;     Bitmaps
+BM1;    Primary Bitmap
+BM2;    Secondary Bitmap
+
+CA;     Certification Authority
+CAD;    Card Acceptance Device
+CAT;    Cardholder Activated Terminal
+CBOR;   Concise Binary Object Representation
+CC;     Common Criteria
+CER;    Canonical Encoding Rules
+CNP;    Card not present
+ConCardis; ConCardis GmbH
+COPAC;  Chip Off-line Pre-Authorized Card
+CP;     Card present
+CUP;    China UnionPay
+
+DC;     Data container
+DCC;    Dynamic Currency Conversion
+DER;    Distinguished Encoding Rules
+
+ECBS;   European Committee for Banking Standards
+ECMA;   European Computer Manufacturers Association
+ECom;   Electronic Commerce
+EDC;    Electronic Data Capture
+EFT;    Electronic Funds Transfer
+Elavon; Elavon Merchant Services Ltd.
+EMV;    Europay, MasterCard, Visa
+EMVCo;  EMVCo, LLC
+EPAS;   Electronic Protocols Application Software
+EPC;    European Payments Council
+ETSI;   European Telecommunications Standards Institute
+
+FIPS;   Federal Information Processing Standards
+FS;     Fields separators
+FSTC;   Financial Services Technology Consortium
+
+GCCNET; Gulf Cooperation Council Network
+GICC;   General ISO-8583 Credit Card
+GP;     GlobalPlatform
+
+HSM;    Hardware Security Module
+
+IARS;   International Automated Referral Service
+IBAN;   International Bank Account Number
+IBIA;   International Biometric Industry Association
+ICAO;   International Civil Aviation Organization
+ICC;    Integrated Circuit Card
+IEC;    International Electrotechnical Commission
+IEEE;   Institute of Electrical and Electronics Engineers
+IFSF;   The International Forecourt Standards Forum
+IFX;    Interactive Financial eXchange Forum
+ISO;    International Organization for Standardization
+ITU;    International Telecommunication Union
+ITU-D;  International Telecommunication Union, Telecommunication Development
+ITU-R;  International Telecommunication Union, Radiocommunication
+ITU-T;  International Telecommunication Union, Telecommunication
+
+KE;     Key Entered
+
+LTV;    Length Tag Value
+LV;     Length Value
+
+MAC;    Message Authentication Code
+MC;     MasterCard
+MCom;   Mobile Commerce
+MIG;    Member Implementation Guide
+MOTO;   Mail Order/Telephone Order
+MRTD;   Machine-Readable Travel Document
+MS;     Magnetic Stripe
+MTI;    Message Type ID
+
+NIST;   National Institute for Standards and Technology
+NMSAC;  National Maritime Security Advisory Committee
+
+OCR;    Optic Check Register
+OP;     Open Platform
+OSCIE;  Open Smart Card Infrastructure for Europe
+
+PCSC;   Personal Computer/Smart Card
+PCI;    Payment Card Industry
+PED;    PIN Entry Device
+PIN;    Personal Identification Number
+POS;    Point of Service
+
+RFC;    Request for Comments
+
+SAMA;   Saudi Arabian Monetary Agency
+SCA;    Smart Card Alliance
+SEPA;   Single Euro(pean) Payments Area
+SET;    Secure Electronic Transaction
+SIA;    Security Industry Association
+
+TL;     Tag Length
+TLV;    Tag Length Value
+TSA;    Transportation Security Administration
+TV;     Tag Value
+TR1;    Track 1
+TR2;    Track 2
+TR3;    Track 3
+TWIC;   Transportation Worker Identification Credential
+
+VIS;    Visa ICC Specification
+Visa;   International
+VSDC;   Visa Smart Debit/Credit
+
+UEC;    Universal Electronic Card
+UKPA;   UK Payments Administration
+UPG;    Universal Payment Gateway
