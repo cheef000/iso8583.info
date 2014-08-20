@@ -5,6 +5,7 @@ AAMVA;  American Association of Motor Vehicle Administrators
 ACI;    Applied Communications Incorporated
 ADVT;   Acquirer Device Validation Toolkit
 AFD;    Automated Fuel Dispenser
+AID;    Application Identifier
 AMEX;   American Express Payment Services Ltd.
 ANSI;   American National Standards Institute
 APACS;  Association for Payment Clearing Services
@@ -16,13 +17,16 @@ B+S;    B+S Card Service GmbH
 BAR;    Barcode
 BER;    Basic Encoding Rules
 BG;     Berlin Group
+BIC;    Bank Identifier Code
 BM;     Bitmaps
 BM1;    Primary Bitmap
 BM2;    Secondary Bitmap
 
 CA;     Certification Authority
 CAD;    Card Acceptance Device
+CAIC;   Card Acceptor ID Code
 CAT;    Cardholder Activated Terminal
+CATI;   Card acceptor Terminal ID
 CBOR;   Concise Binary Object Representation
 CC;     Common Criteria
 CER;    Canonical Encoding Rules
@@ -37,6 +41,7 @@ DC;     Data container
 DCC;    Dynamic Currency Conversion
 DCI;    Diners Club International Ltd.
 DER;    Distinguished Encoding Rules
+DOL;    Data Object List
 
 ECBS;   European Committee for Banking Standards
 ECC;    Emergency Cheque Cashing
@@ -62,6 +67,7 @@ GP;     GlobalPlatform
 
 HSM;    Hardware Security Module
 
+IAC;    Issuer Action Code
 IARS;   International Automated Referral Service
 IBAN;   International Bank Account Number
 IBIA;   International Biometric Industry Association
@@ -69,6 +75,7 @@ ICAO;   International Civil Aviation Organization
 ICC;    Integrated Circuit Card
 IEC;    International Electrotechnical Commission
 IEEE;   Institute of Electrical and Electronics Engineers
+IFD;    Interface Device
 IFSF;   The International Forecourt Standards Forum
 IFX;    Interactive Financial eXchange Forum
 ISO;    International Organization for Standardization
@@ -132,3 +139,4 @@ VSDC;   Visa Smart Debit/Credit
 UEC;    Universal Electronic Card
 UKPA;   UK Payments Administration
 UPG;    Universal Payment Gateway
+URL;    Uniform Resource Locator
