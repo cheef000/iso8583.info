@@ -1,0 +1,22 @@
+# Done, ready to use and support
+
+- AMEX_GEDC - American Express, Global Electronic Data Capture (GEDC) Terminal Message Specification
+- CB2A_AUTO - Groupement des Cartes Bancaires, CB2A Autorisation
+- CB2A_TLC_TLP_GR - Groupement des Cartes Bancaires, CB2A Data Capture (DCP), Parameters Downloading (PDP), Network Management. CB2A Telecollecte (TLC), Teleparametrage(TLP), Gestion de Reseaux (GR).
+- CUP - China UnionPay (CUP) Online Message
+- DCI_SC - The Diners Club International Service Centre (DCISC) Relay Authorisation System ISO 8583
+- EMV - Integrated Circuit Card Specifications for Payment Systems v4.2
+- Euroconex_POS - Elavon/Euroconex POS Message Specifications
+- GICC - General ISO-8583 Credit Card (GICC) POS Authorization Protocol
+- ISO8583:1993 - ISO/IEC 8583:1993(E) Financial transaction card originated messages
+- ISO8583:2003 - ISO/IEC 8583-1:2003(E) Financial transaction card originated messages
+- ISO8825-1 - ITU-T Rec. X.690 (1997 E) | ISO/IEC 8825-1:1998(E) - Information Technology, ASN.1 Encoding Rules - Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER)
+- JCB - JCB International, Online Interface
+- OmniPay_H2H - OmniPay ISO8583 Host to Host (H2H) Message Specification
+- RS2_POS - RS2 POS ISO 8583
+- SDI - Nets SOFIE - Sofie Desentral Innsamling (SDI) Interface Specification
+- TWO_TIC_TCI - Compass Plus TranzWare Interconnect (TIC) / TranzWare Core Banking Interface (TCI)
+
+PS: Some other tools are developed but not yet shared.
+
+Request support at iso8583.info
