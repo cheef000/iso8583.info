@@ -1,0 +1,142 @@
+# TODO and wishlist
+
+Please request commercial support at iso8583.info to prioritize the research.
+
+## GENERAL. Organize and share to use.
+
+- HSM
+- Communication switch
+- Acquirer host
+- Issuer host
+- Card profiles
+- Batch support
+- VM based services
+
+## TOOLS
+
+- APDU parser
+- NFC lib interface
+- PC/SC lib interface
+- File converters and extractors (pcap, usbpcap, clearing files, NomadLAB traces, ICC Solution Level 1, etc.)
+- ICC Solution's card profile writer
+
+## MESSAGES, online & clearing
+
+### ISO 8583:1987 based
+
+- AMEX PIP - Plural Interface Processing Terminal Interface
+- AS2805 - Australian Standard 2805, Consumer Electronic Clearing System
+- BIC ISO
+- Bull EFT
+- BUYPASS
+- CBUAE MBI - Central Bank of UAE Member Bank POS Switch Interface
+- CR2 - CR2 ISO 8583 Host Gateway
+- Discover AI - Discover Authorization Interface
+- ECHO ISO - Electronic Clearing House, Inc. ISO 8583
+- EBT - Electronic Benefits Transfer
+- eService
+- ETSL PI - Processor Interface
+- FDMS LL - Authorization Network Processing Specification for Leased Line Merchants
+- FIS ISO
+- GCCNet - Gulf Cooperation Council Network Interface
+- HPDH - Hypercom Device Handler
+- ICBC POS
+- Interac IDP - Interac Direct Payment
+- Interac SCD - Interac Shared Cash Dispensing
+- Interpay BIM - Interpay Bank Interchange Message
+- InterSwitch
+- JWARE POS
+- LIS5 - LINK Switch Service Interchange Standard
+- MasterCard IPS - MasterCard Customer Interface Specification
+- MasterCard MDS - MasterCard Debit Switch
+- MEPS
+- MultiXPac POS
+- NAPS - National ATM & POS Switch, Qatar Central Bank
+- NIPS - Nedbank Integrated Payment Solutions
+- OLA - Citibank Online card Authorization system
+- OmniPay H2H - OmniPay Host to Host
+- OpenWay POS
+- PayPoint
+- PIA-Link - Payment Issuer Authorization Link
+- PoinSys - Point Norway EFT Switching
+- POSLine
+- PostBridge
+- PostTerm
+- PULSE PI - PULSE Processor Interface
+- RTC - BANKSERV Real Time Clearing
+- SASWITCH ATM
+- SASWITCH POS
+- SPAN 3
+- Stecard - Online card authorisation
+- TWO TITP - TranzWare ISO8583 Terminal Protocol
+- Visa BASE I
+- Visa SMS - Single Message System
+- ANSI X9.15
+
+### ISO 8583:1993 based
+
+- A98 - Initial ATM Key Establishment System
+- AMEX Ascend
+- BSP - BC/MC Switch Protocol
+- CBUAE POS - Central Bank of UAE POS Interface
+- CUSC ISO
+- EDS
+- Evalon ISO
+- Finnish POS
+- FLEXCUBE
+- GPP - Gateway POS protocol
+- ISO8583:OIL P2H - ISO8583-Oil POS-to-Host online interface
+- JWARE H2H - HOST TO HOST
+- MasterCard IPM - Integrated Product Messages
+- OLI - Online To Issuer – Interface and Transaction Handling
+- ONS MBI - Oman National Switch Member Bank Interface
+- PagoBANKOMAT POS - Terminale POS - Gestore Terminali
+- PKK ISO
+- PLC ISO
+- PUC - Protocolo Unificado de Comercios
+- SIA ISO
+- SIG - Standard Implementation Guideline
+- SPAN EFTPOS 5
+- SUDAPAN HBI - HOST BANK INTERFACE
+- SUDAPAN MBI - MEMBER BANK INTERFACE
+- SUDAPAN SBI - SWITCH BANK INTERFACE
+- TermApp.ISO
+- TRANSMASTER POS
+- WIC Direct - OWE - Online WIC EBT
+
+### ISO 8583:2003 based
+
+- ISO 8583:2003
+- 3CAS - 3CAS ISO8583 - Technical Specifications
+- GRTx
+
+### XML
+- 3cXml - protocol reference
+- AMEX PIP XML - Plural Interface Processing XML Terminal Interface
+- BIPS - Bank Internet Payment System
+
+### Dial-Up/data link
+
+- 3C 8000/9000 - EMV Protocol Reference
+- AMEX Dial-Up
+- APACS - Association for Payment Clearing Services
+- APTRA Advance NDC
+- C-TAP - Common Terminal Acquirer Protocol
+- COPAC 2 POS - CHIP OFF-LINE PRE-AUTHORIZED CARD POS messages
+- DLH - Dedicated Line Credit Card interface
+- ECHK - Host Protocol
+- EDC POS - Electronic Draft Capture POS
+- EDC Settlement - Electronic Draft Capture Settlement
+- FDMS MI - Merchant Interface
+- Micros CPTPS - micros(R) Chip & Pin Table Pay Service
+- NDC+ - NCR Direct Connect
+- OTRS - Open Terminal Requirement Specification
+- PostCBPR
+- PTS - Paperless Transaction System
+- SET - Secure Electronic Transaction protocol
+- SIBS POS
+- SPDH - Standard POS Device Handler
+- SPKT - NCN SPKT Host Protocol
+- UPGdirect
+- Visa BASE II
+- VPTerm - Visa Protocol Credit Card Interface
