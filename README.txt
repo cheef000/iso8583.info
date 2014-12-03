@@ -41,8 +41,8 @@ In online web services used JavaScript, it should be enabled.
 Chrome browser preferred to use. The others are checked with minimal compatibly.
 
 Offline command line tools might be requested and represent as windows or linux
-binaries. Binaries will not request any additional software installations if it
-is not a part of specific tool requirement.
+binaries. Binaries will not require any additional software installations if it
+is not a part of specific tools or libraries.
 
 You should have minimal software and financial services background to better
 understand the theme. In other case, please request for support. We will be glad
@@ -51,10 +51,6 @@ to explain everything in details on a fee basis.
 
 Proprietary Notes
 =================
-Lighttpd under BSD license, used for web site and online services.
-jQuery under MIT license, used on web site user interface generation.
-LuaJIT under MIT license, used to run binary environment core.
-
 The site scripts, binaries and the information, if it is not a part of contracts
 - collected, developed and owned by Alexander Shevelev.
 Redistribution and use in source and binary forms, with or without modification,
