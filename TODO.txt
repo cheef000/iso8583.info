@@ -1,6 +1,6 @@
 # TODO and wishlist
 
-Please request commercial support at iso8583.info to prioritize the research.
+Please request commercial support(at)iso8583.info to prioritize the research.
 
 ## GENERAL. Organize and share to use.
 
@@ -54,7 +54,6 @@ Please request commercial support at iso8583.info to prioritize the research.
 - NAPS - National ATM & POS Switch, Qatar Central Bank
 - NIPS - Nedbank Integrated Payment Solutions
 - OLA - Citibank Online card Authorization system
-- OmniPay H2H - OmniPay Host to Host
 - OpenWay POS
 - PayPoint
 - PIA-Link - Payment Issuer Authorization Link
@@ -106,7 +105,6 @@ Please request commercial support at iso8583.info to prioritize the research.
 
 ### ISO 8583:2003 based
 
-- ISO 8583:2003
 - 3CAS - 3CAS ISO8583 - Technical Specifications
 - GRTx
 
