@@ -27,6 +27,7 @@ CAD;    Card Acceptance Device
 CAIC;   Card Acceptor ID Code
 CAT;    Cardholder Activated Terminal
 CATI;   Card acceptor Terminal ID
+CB;     Groupement des Cartes Bancaires
 CBOR;   Concise Binary Object Representation
 CC;     Common Criteria
 CER;    Canonical Encoding Rules
@@ -75,10 +76,17 @@ ICAO;   International Civil Aviation Organization
 ICC;    Integrated Circuit Card
 IEC;    International Electrotechnical Commission
 IEEE;   Institute of Electrical and Electronics Engineers
+IETF;   The Internet Engineering Task Force
 IFD;    Interface Device
 IFSF;   The International Forecourt Standards Forum
 IFX;    Interactive Financial eXchange Forum
+IP;     The Internet Protocol
 ISO;    International Organization for Standardization
+ISO-0;  PIN block ISO format 0 (same as ANSI X9.8, VISA-1 and ECI-1)
+ISO-1;  PIN block ISO format 1 (same as ECI-4)
+ISO-2;  PIN block ISO format 2
+ISO-3;  PIN block ISO format 3
+ISOC;   The Internet Society
 ITU;    International Telecommunication Union
 ITU-D;  International Telecommunication Union, Telecommunication Development
 ITU-R;  International Telecommunication Union, Radiocommunication
@@ -89,12 +97,15 @@ JCB;    Japan Credit Bureau
 KE;     Key Entered
 
 LTV;    Length Tag Value
+LMK;    Local Master Key
 LV;     Length Value
 
 MAC;    Message Authentication Code
 MC;     MasterCard
+MCC;    Merchant category codes
 MCom;   Mobile Commerce
 MIG;    Member Implementation Guide
+MO;     Mail Order
 MOTO;   Mail Order/Telephone Order
 MRTD;   Machine-Readable Travel Document
 MS;     Magnetic Stripe
@@ -113,11 +124,13 @@ PCI;    Payment Card Industry
 PED;    PIN Entry Device
 PIN;    Personal Identification Number
 POS;    Point of Service
+PS;     Payment Scheme
 
 RFC;    Request for Comments
 RS2;    RS2 Software Group
 
 SAMA;   Saudi Arabian Monetary Agency
+SafeNet;SafeNet, Inc
 SCA;    Smart Card Alliance
 SEPA;   Single Euro(pean) Payments Area
 SET;    Secure Electronic Transaction
@@ -125,6 +138,7 @@ SIA;    Security Industry Association
 
 TL;     Tag Length
 TLV;    Tag Length Value
+TO;     Telephone Order
 TSA;    Transportation Security Administration
 TV;     Tag Value
 TR1;    Track 1
